@@ -81,6 +81,7 @@ with st.sidebar:
 # --- UI レイアウト ---
 
 st.title("PERSONALITY ENGINE")
+st.image("assets/main_banner.png", use_column_width=True)
 
 if not st.session_state.quiz_started:
     st.markdown("""
