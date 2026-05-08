@@ -1,0 +1,92 @@
+[
+  {
+    "text": "新しいプロジェクトを始めるとき、あなたの最初のアプローチは？",
+    "choices": [
+      {"text": "全体の計画を細かく立て、リスクを洗い出す", "points": {"Prudence": 3, "Logic": 1}},
+      {"text": "まずは手を動かして、走りながら考える", "points": {"Daring": 3, "Empathy": 1}},
+      {"text": "データや既存の事例を徹底的に調査する", "points": {"Logic": 3, "Prudence": 1}},
+      {"text": "メンバーの意見を聞き、チームの士気を高める", "points": {"Empathy": 3, "Daring": 1}}
+    ]
+  },
+  {
+    "text": "予期せぬトラブルが発生しました。どう対応しますか？",
+    "choices": [
+      {"text": "原因を冷静に分析し、論理的な解決策を見つける", "points": {"Logic": 3, "Prudence": 1}},
+      {"text": "周囲の混乱を鎮め、協力体制を整える", "points": {"Empathy": 3, "Logic": 1}},
+      {"text": "大胆な策を講じて、一気に状況を打破する", "points": {"Daring": 3, "Empathy": 1}},
+      {"text": "さらなる悪化を防ぐため、保守的な対応を取る", "points": {"Prudence": 3, "Daring": 1}}
+    ]
+  },
+  {
+    "text": "休日の過ごし方として、最も魅力的なのは？",
+    "choices": [
+      {"text": "読書やパズルなど、頭を使う活動", "points": {"Logic": 3, "Prudence": 1}},
+      {"text": "友人や家族と賑やかに過ごす", "points": {"Empathy": 3, "Daring": 1}},
+      {"text": "スカイダイビングや旅行など、刺激的な冒険", "points": {"Daring": 3, "Empathy": 1}},
+      {"text": "家で静かに過ごし、明日の準備を整える", "points": {"Prudence": 3, "Logic": 1}}
+    ]
+  },
+  {
+    "text": "友人から悩み相談を受けました。あなたの返答は？",
+    "choices": [
+      {"text": "解決のための具体的なアドバイスを提示する", "points": {"Logic": 3, "Prudence": 1}},
+      {"text": "ただ共感し、相手の気持ちに寄り添う", "points": {"Empathy": 3, "Daring": 1}},
+      {"text": "「なんとかなるさ！」と励まして背中を押す", "points": {"Daring": 3, "Empathy": 1}},
+      {"text": "まずは状況を整理し、一緒に慎重に考える", "points": {"Prudence": 3, "Logic": 1}}
+    ]
+  },
+  {
+    "text": "知らない土地で道に迷いました。どうしますか？",
+    "choices": [
+      {"text": "地図アプリを駆使し、最短ルートを計算する", "points": {"Logic": 3, "Prudence": 1}},
+      {"text": "近くにいる人に話しかけて道を尋ねる", "points": {"Empathy": 3, "Daring": 1}},
+      {"text": "直感を信じて、面白そうな道を進んでみる", "points": {"Daring": 3, "Empathy": 1}},
+      {"text": "安全な場所まで戻り、確実にわかる道を探す", "points": {"Prudence": 3, "Logic": 1}}
+    ]
+  },
+  {
+    "text": "報酬として選ぶならどれ？",
+    "choices": [
+      {"text": "最新の高性能ガジェット", "points": {"Logic": 3, "Prudence": 1}},
+      {"text": "大切な人たちとの豪華なディナー", "points": {"Empathy": 3, "Daring": 1}},
+      {"text": "誰も行ったことがない場所への航空券", "points": {"Daring": 3, "Empathy": 1}},
+      {"text": "将来のための安定した貯蓄", "points": {"Prudence": 3, "Logic": 1}}
+    ]
+  },
+  {
+    "text": "意見が対立したとき、あなたは？",
+    "choices": [
+      {"text": "論理の矛盾を指摘し、正しい結論を導く", "points": {"Logic": 3, "Prudence": 1}},
+      {"text": "お互いの妥協点を見つけ、丸く収める", "points": {"Empathy": 3, "Logic": 1}},
+      {"text": "自分の主張を貫き、強気に交渉する", "points": {"Daring": 3, "Empathy": 1}},
+      {"text": "リスクを考慮し、最も安全な選択肢を提案する", "points": {"Prudence": 3, "Logic": 1}}
+    ]
+  },
+  {
+    "text": "仕事で大きなミスをしました。最初の行動は？",
+    "choices": [
+      {"text": "なぜミスが起きたかレポートをまとめる", "points": {"Logic": 3, "Prudence": 1}},
+      {"text": "関係者に誠心誠意謝罪し、フォローする", "points": {"Empathy": 3, "Daring": 1}},
+      {"text": "すぐにリカバリーするための代替案を実行する", "points": {"Daring": 3, "Empathy": 1}},
+      {"text": "被害を最小限に抑えるための防衛策を練る", "points": {"Prudence": 3, "Logic": 1}}
+    ]
+  },
+  {
+    "text": "新しいスキルを学ぶなら？",
+    "choices": [
+      {"text": "高度なプログラミングやデータ分析", "points": {"Logic": 3, "Prudence": 1}},
+      {"text": "カウンセリングやコミュニケーション術", "points": {"Empathy": 3, "Daring": 1}},
+      {"text": "サバイバル技術や格闘技", "points": {"Daring": 3, "Empathy": 1}},
+      {"text": "会計知識や資産運用", "points": {"Prudence": 3, "Logic": 1}}
+    ]
+  },
+  {
+    "text": "あなたの座右の銘に近いのは？",
+    "choices": [
+      {"text": "「知は力なり」", "points": {"Logic": 3, "Prudence": 1}},
+      {"text": "「一期一会」", "points": {"Empathy": 3, "Daring": 1}},
+      {"text": "「当たって砕けろ」", "points": {"Daring": 3, "Empathy": 1}},
+      {"text": "「石橋を叩いて渡る」", "points": {"Prudence": 3, "Logic": 1}}
+    ]
+  }
+]

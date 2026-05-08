@@ -1,0 +1,74 @@
+/* Dark Mode & Game UI Styling */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+.stApp {
+    background-color: #0e1117;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header & Titles */
+h1, h2, h3 {
+    font-family: 'Orbitron', sans-serif;
+    color: #00ffcc;
+    text-shadow: 0 0 10px rgba(0, 255, 204, 0.5);
+    text-align: center;
+}
+
+/* Question Card */
+.question-card {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 2rem;
+    border-radius: 15px;
+    border: 1px solid rgba(0, 255, 204, 0.3);
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.question-text {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    color: #ffffff;
+}
+
+/* Buttons Styling */
+div.stButton > button {
+    width: 100%;
+    background-color: transparent;
+    color: #00ffcc;
+    border: 1px solid #00ffcc;
+    padding: 0.75rem;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+div.stButton > button:hover {
+    background-color: rgba(0, 255, 204, 0.2);
+    border-color: #00ffcc;
+    color: #ffffff;
+    box-shadow: 0 0 15px rgba(0, 255, 204, 0.4);
+}
+
+/* Progress Bar */
+.stProgress > div > div > div > div {
+    background-color: #00ffcc;
+}
+
+/* Result Profile */
+.result-profile {
+    font-size: 2rem;
+    color: #ff007f;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.result-description {
+    font-size: 1.1rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #b0b0b0;
+}
